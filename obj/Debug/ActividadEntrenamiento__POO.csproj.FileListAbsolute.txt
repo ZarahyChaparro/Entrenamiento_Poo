@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\ActividadEntrenamiento__POO\ActividadEntrenamiento__POO\bin\Debug\ActividadEntrenamiento__POO.exe.config
+C:\Users\Usuario\source\repos\ActividadEntrenamiento__POO\ActividadEntrenamiento__POO\bin\Debug\ActividadEntrenamiento__POO.exe
+C:\Users\Usuario\source\repos\ActividadEntrenamiento__POO\ActividadEntrenamiento__POO\bin\Debug\ActividadEntrenamiento__POO.pdb
+C:\Users\Usuario\source\repos\ActividadEntrenamiento__POO\ActividadEntrenamiento__POO\obj\Debug\ActividadEntrenamiento__POO.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ActividadEntrenamiento__POO\ActividadEntrenamiento__POO\obj\Debug\ActividadEntrenamiento__POO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ActividadEntrenamiento__POO\ActividadEntrenamiento__POO\obj\Debug\ActividadEntrenamiento__POO.exe
+C:\Users\Usuario\source\repos\ActividadEntrenamiento__POO\ActividadEntrenamiento__POO\obj\Debug\ActividadEntrenamiento__POO.pdb
