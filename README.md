@@ -1,13 +1,12 @@
-# Ejercicio de Entrenamiendo en programación orientada a objetos (POO)
+# Ejercicio de Entrenamiento en Programación Orientada a Objetos (POO)
 
-## Introducción al proyecto
+## Introducción al Proyecto
 
-Este proyecto es un ejercicio práctico que se diseño aplicando y practicando los conceptos básicos de la Programación Orientada a Objetos (POO). Conceptos clave como encapsulación, herencia, polimorfismo y abstracción se evidencian y aplican durante el proceso de desarrollo.
+Este proyecto es un ejercicio práctico diseñado para aplicar y practicar los conceptos básicos de la Programación Orientada a Objetos (POO). A lo largo del desarrollo, se evidencian y aplican conceptos clave como encapsulación, herencia, polimorfismo y abstracción.
 
-## El objetivo principal
+## Objetivo Principal
 
 - Aplicar conceptos de POO en entornos del mundo real.
-- Utilizar clases y objetos para representar entidades relacionadas.  
+- Utilizar clases y objetos para representar entidades relacionadas.
 - Mostrar cómo utilizar el polimorfismo para aumentar la flexibilidad del código.
-
 
